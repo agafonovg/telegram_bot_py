@@ -1,1 +1,2 @@
 telegram_bot_py
+@bot_idiot_bot
